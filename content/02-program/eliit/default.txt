@@ -1,0 +1,22 @@
+﻿Title: Pre-Conference ELIIT Research Academy
+
+----
+
+Text: <table class="table table-bordered table-striped">
+	<tr><td>7:30 - 8:00</td><td>Registration and Light Breakfast</td></tr>
+	<tr><td>8:00 - 8:05</td><td>Welcome and Opening Remarks<br><em>L. Di Prospero</em></td></tr>
+	<tr><td>8:05 – 8:30</td><td>Introduction, Types of Research and Development of your Research Question or Hypothesis<br><em>R. Adams</em></td></tr>
+	<tr><td>8:30 – 9:15</td><td>Literature review including critical analysis of key literature and developing a "statement of the problem"<br><em>H. Probst</em></td></tr>
+	<tr><td>9:15 – 10:00</td><td>Developing a research proposal<br><em>M. Hardy</em></td></tr>
+	<tr><td>10:00 – 10:15</td><td>BREAK</td></tr>
+	<tr><td>10:15 – 11:00</td><td>Introduction to Research Methodologies<br><em>G. Currie</em></td></tr>
+	<tr><td>11:00 – 12:00</td><td>Introduction to data analysis and descriptive statistical analysis in quantitative research<br><em>G. Currie</em></td></tr>
+	<tr><td>12:00 – 12:30</td><td>LUNCH<br><em>CAMRT Grant – M. Velec</em></td></tr>
+	<tr><td>12:30 – 1:30</td><td>Inferential statistical analysis in quantitative research<br><em>G. Currie</em></td></tr>
+	<tr><td>1:30 – 2:30</td><td>Qualitative looking at those unique methodologies<br><em>R. Adams, M. Hardy &amp; H. Probst</em></td></tr>
+	<tr><td>2:30 – 2:45</td><td>BREAK</td></tr>
+	<tr><td>2:45 – 3:45</td><td>Qualitative looking at those unique methodologies<br><em>R. Adams, M. Hardy &amp; H. Probst</em></td></tr>
+	<tr><td>3:45 – 4:15</td><td>Dissemination<br><em>L. Di Prospero</em></td></tr>
+	<tr><td>4:15 – 5:00</td><td>Networking Session<br>All Faculty</td></tr>
+	<tr><td>5:00 - 5:15</td><td>Closing Remarks<br><em>F. Couillard &amp; L. Di Prospero</em></td></tr>
+</table>

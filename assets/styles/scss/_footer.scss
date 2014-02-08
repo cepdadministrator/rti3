@@ -1,0 +1,22 @@
+@import "variables";
+
+#location-map-canvas {
+	height: 300px;
+	width: 100%;
+}
+
+footer {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	.logos {
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	.left-logo {
+		margin-right: 20px;
+	}
+	.right-logo {
+		margin-left: 20px;
+	}
+}

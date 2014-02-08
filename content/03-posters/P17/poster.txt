@@ -1,0 +1,13 @@
+ID: P17
+
+----
+
+Session: Session 3
+
+----
+
+Author: S. Lawes*
+
+----
+
+Title: Pacemaker Dose Reference Guide for Thoracic Cancer Patients Treated with HDR Brachytherapy

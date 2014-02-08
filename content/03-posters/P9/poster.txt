@@ -1,0 +1,13 @@
+ID: P9
+
+----
+
+Session: Session 2
+
+----
+
+Author: R. Case
+
+----
+
+Title: High Fidelity Radiation Therapy Simulation Equipment in the Medical Radiation Sciences (MRS) clinical simulation curriculum

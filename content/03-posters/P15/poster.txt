@@ -1,0 +1,13 @@
+﻿Id: P15
+
+----
+
+Session: Session 3
+
+----
+
+Author: G. Currie
+
+----
+
+Title: Managing brown adipose tissue (BAT) uptake in 18F FDG PET oncology studies

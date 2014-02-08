@@ -1,0 +1,13 @@
+ID: P25
+
+----
+
+Session: Session 4
+
+----
+
+Author: R. Urban*
+
+----
+
+Title: Evaluation of the trade-offs for coplanar and non-coplanar treatment techniques for lung SBRT

@@ -1,0 +1,35 @@
+@import "variables";
+
+.btn-primary {
+	background: $blue;
+}
+
+.btn-objectives {
+	background: $green;
+	color: $white;
+	&:hover {
+		background: $green;
+		color: $white;
+	}
+}
+
+.navbar-default .navbar-toggle {
+	border: none;
+	font-size: 40px;
+	&:hover {
+		background: $white;
+		color: $blue;
+	}
+	&:active {
+		background: $white;
+		color: $green;
+	}
+	&:visited {
+		background: $white;
+		color: $green;
+	}
+	&:focus {
+		background: $white;
+		color: $green;
+	}		
+}

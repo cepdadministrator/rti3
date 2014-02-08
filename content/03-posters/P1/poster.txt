@@ -1,0 +1,13 @@
+ID: P1
+
+----
+
+Session: Session 1
+
+----
+
+Author: L. D’Alimonte
+
+----
+
+Title: Does Prostate Biopsy after HDR Brachytherapy Have Any Clinical Significance?

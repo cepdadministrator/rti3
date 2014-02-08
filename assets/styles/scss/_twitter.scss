@@ -1,0 +1,9 @@
+@import "variables";
+
+.twitter-widget {
+	margin-top: 70px;
+	@media(max-width:989px) {
+		margin-top: 10px;
+		text-align: center;
+	}
+}

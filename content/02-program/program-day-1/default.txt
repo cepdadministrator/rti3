@@ -1,0 +1,138 @@
+﻿Title: Program Day 1
+
+----
+
+Text: <table class="table table-bordered table-striped">
+  <tr>
+	  <td>8:00 to 9:00</td>
+	  <td colspan="2">Registration and Breakfast</td>
+  </tr>
+  <tr>
+	  <td>9:00 – 9:10</td>
+	  <td colspan="2">Welcome and Opening Remarks: <em>L. DiProspero (Co-Chair)</em><p>UTDRO Welcome<br><em>F.F. Liu</em></p></td>
+  </tr>
+  <tr>
+	  <td>9:10 – 9:30</td>
+	  <td colspan="2">Picture of the Profession<br><em>S. Robson</em></td>
+  </tr>
+  <tr>
+	  <td>9:30 – 10:15</td>
+	  <td colspan="2"><strong>&quot;Innovate&quot; Invited Keynote Speaker</strong><br><em>T. Larsen &amp; D. Vergel de Dios</em></td>
+  </tr>
+  <tr>
+	  <td>10:15 – 10:45</td>
+	  <td colspan="2"><strong>&quot;Innovate&quot; Top-Ranked Abstract</strong><br>Feasibility of preoperative vmat for early stage breast cancer<br><em>K. Bota</em></td>
+  </tr>
+  
+  <tr>
+	  <td>10:45 – 11:15</td>
+	  <td colspan="2"><strong>Break and Poster Viewing Session #1</strong><br>
+	  (Giovanni Room)<br>
+	  <em>11:05 – 11:10 – Posters #1 - #4</em><br>
+	  <em>11:10 – 11:15 – Posters #5 - #8</em></td>
+  </tr>
+  
+  <tr>
+	  <td width="10%">11:15 – 12:15</td>
+	  <td width="45%"><h3><small>Proffered Papers Session 1</small><br>Technical advances in clinical practice </h3>
+		  <p><strong>(Moderator: C. Vanderwater) </strong><br><em>(Colony Ballroom)</em></p>
+
+		<p>O41 - MR-based interventional radiotherapy for prostate cancer: one approach to personalized medicine<br><em>J. Abed</em></p>
+
+		<p>O42 - A prospective cohort analysis of two brachytherapy techniques for low/intermediate risk prostate cancer<br><em>L. D’Alimonte</em></p>
+
+		<p>O43 - Investigating variations in rectal size on CT planning data set and cbct for patients undergoing rt to their prostate/prostate bed during the first thirteen days of treatment<br><em>M. Yaver</em></p>
+
+		<p>O44 - PTV reduction in SBRT enabling escalated delivered doses to liver tumours<br><em>M. Velec</em></p>
+	  </td>
+	  <td width="45%"><h3>Workshop 1</h3>
+		  <p><strong>(Moderator: C Gillan, B Liszewski)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+		  
+		  <p>W1 - The Canadian Partnership for Quality Radiotherapy: Why us? Why now? And what about you?<br><em>B. Liszewski</em></p>
+	  </td>
+  </tr>
+
+	<tr>
+		<td>12:15 – 1:15</td>
+		<td><h3><small>Proffered Papers Session 2</small><br>Advancing Clinical Practice – the role of the radiation therapist as clinician in best practice initiatives</h3>
+			<p>(Moderator: N Harnett)<br>(Colony Ballroom)</p>
+			
+			<p>O45 - Leading Practice: Integrating best practice initiatives as part of the radiation therapist role<br><em>L. Di Prospero</em></p>
+			<p>O46 - The National Landscape: a pain needs assessment survey of radiation therapists<br><em>L. Holden</em></p>
+			<p>O47 - Successes and Challenges: One Cancer Centre’s Experience Implementing a Smoking Cessation Model of Care into Daily Clinical Practice<br><em>C. Vanderwater</em></p>
+			<p>O48 -Concordance of a CSRT and RO: A prospective treatment planning and assessment of patients receiving palliative radiotherapy for bone mets<br><em>N. Rozanec</em></p>
+
+		</td>
+		<td><h3>Workshop 2</h3>
+			<p><strong>(Moderator: K McGrath)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+
+			<p>W2 - An Interactive Discussion on the Role of Knowledge Based Planning in the Canadian Radiation Therapy Department<br><em>K. Sutherland</em></p>
+		</td>
+	</tr>
+</table>
+
+<table class="table table-bordered table-striped">	
+	<tr>
+	    <td width="10%">1:15 – 2:15</td>
+	    <td width="90%"><strong>LUNCH</strong><br><strong>Colony Ballroom West</strong></td>
+	</tr>
+</table>
+
+<table class="table table-bordered table-striped">
+	<tr>
+		<td width="10%">2:15 – 3:30</td>
+		<td width="30%"><h3><small>Proffered Paper Session 3</small><br>Education</h3>
+			<p><strong>(Moderator: R Case)</strong><br><em>(Colony Ballroom)</em></p>
+			<p>O49 - Exploring attitudes of Canadian ROs, RTTs, physicists and nurses regarding IP teaching and learning<br><em>M. McGuffin</em></p>
+			<p>O50 -Interprofessionally-based simulation in radiation medicine: addressing collaborative clinical competencies<br><em>C. Gillan</em></p>
+			<p>O51 - Education in the modern health care setting: development of an e-learning module for clinicians<br><em>F. Gallant</em></p>
+			<p>O52 - Homecoming 2013: reducing clinical practicum anxiety in RTT students<br><em>K. McGuire</em></p>
+			<p>O53 - Getting the message across: are we using best practice for patient education<br><em>A.Bolderston</em></p>
+		</td>
+		<td width="30%">
+			<h3><small>Proffered Papers Session 4</small><br>Supportive care - the patient’s point of view</h3>
+			<p><strong>(Moderator: B Liszewski)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+			<p>O54 - Surviving and thriving: are current care models meeting psychosocial needs of adolescent and young adult cancer survivors<br><em>C Feuz</em></p>
+			<p>O55 - Patient Satisfaction with the Role of a Clinical Specialist Radiation Therapist in Palliative Care<br><em>N. Rozanec</em></p>
+			<p>O56 - Psychological impact of daily bowel preparation on prostate cancer patients who receive RT<br><em>B Bristow</em></p>
+			<p>O57 - Assessment of Comfort and shrinkage in four styles of thermoplastic masks<br><em>V. Dovell*</em></p>
+			<p>O58 - Perceptions of Receptivity: Exploring Tobacco Use and Smoking Cessation Best Practices from the Perspectives of Individuals with Lung Cancer and Health Care Professionals<br><em>B Bristow</em></p>	
+		</td>
+		<td width="30%"><h3>RTi3 Student Career Panel</h3>
+			<p><strong>(Moderator: L. D’Alimonte, K. McGrath, N. Harnett)</strong><br><em>(St. Patrick Room, 3rd Floor)</em></p>
+			<p>Research (M. Velec)</p>
+			<p>Volunteerism (C.A. Davis)</p>
+			<p>Clinical Management (E. Moyo)</p>
+			<p>Clinical Trials (L. Holden)</p>
+			<p>Education (M. Peacock)</p>
+			<p>Advanced Practice (M. Lau)</p>
+			<p>Graduate Education (J. Abed)</p>
+			<p>Health/Policy Services (G.Mitera)</p>
+		</td>
+	</tr> 
+	<tr>
+		<td>3:30 – 4:00</td>
+		<td colspan="3"><strong>Break and Poster Viewing Session #2</strong><br>(Giovanni Room)<br>
+		<em>3:50 – 3:55 – Posters #9 - #10</em><br>
+		<em>3:55 – 4:00 – Posters #11 - #14</em></td>
+	</tr>
+	<tr>
+		<td>4:00 – 4:30</td>
+		<td colspan="3"><strong>&quot;Inspire&quot; Top-Ranked Abstract</strong><br>
+		Building a case for the treatment of oligometastases with SBRT: the OCC experience<br>
+		<em>D Erler</em></td>
+	</tr>
+	<tr>
+		<td>4:30 – 5:15</td>
+		<td colspan="3"><strong>&quot;Inspire&quot; Invited Keynote Speaker</strong><br>
+		<em>H. Probst</em></td>
+	</tr>
+	<tr>
+		<td>5:15 – 5:30</td>
+		<td colspan="3">Closing emarks: <em>C. Gillan (Co-Chair)</em></td>
+	</tr>
+	<tr>
+		<td>6:30</td>
+		<td colspan="3"><strong>INSPIRE SOCIAL EVENT (University of Toronto Art Gallery)</strong></td>
+	</tr>
+</table>

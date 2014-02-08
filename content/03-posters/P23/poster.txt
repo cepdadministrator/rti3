@@ -1,0 +1,13 @@
+ID: P23
+
+----
+
+Session: Session 4
+
+----
+
+Author: C. Ryu*
+
+----
+
+Title: A Study of the Impact of Dose Grid Resolution on IMRT Optimization

@@ -1,0 +1,13 @@
+ID: P27
+
+----
+
+Session: Session 4
+
+----
+
+Author: K. Surowiec*
+
+----
+
+Title: Dosimetric Effects of Catheter Motion in Intraluminal Thoracic Brachytherapy
