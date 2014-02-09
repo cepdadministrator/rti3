@@ -7,20 +7,20 @@ Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod t
 ## Keynote Speakers
 
 ### Inquire
-**Ms. Cynthia Eccles RTT, RTMR, BSc DPhil(c)**
+**Ms. Cynthia Eccles RTT, RTMR, BSc DPhil(c)**<br>
 Research Radiographer, Gray Institute for Radiation Oncology and Biology, University of Oxford
 
 ### Inspire
-**Dr. Heidi Probst PhD, MA, BSc(Hons), FCR**
+**Dr. Heidi Probst PhD, MA, BSc(Hons), FCR**<br>
 Lecturer & Researcher, Sheffield Hallam University
 
 ### Innovate
-**Mr. Dennis Vergel de Dios MRT(T) BSc**
+**Mr. Dennis Vergel de Dios MRT(T) BSc**<br>
 Mississauga Halton/Central West Regional Cancer Program
 
-**Ms. Tessa Larsen MRT(T) BSc**
+**Ms. Tessa Larsen MRT(T) BSc**<br>
 Radiation Informatics System Specialist/Supervisor, Mississauga Halton/Central West Regional Cancer Program
 
 ### Interprofessional
-**Dr. Anne Katz RN PhD**
+**Dr. Anne Katz RN PhD**<br>
 Clinical Nurse Specialist & Sexuality Counselor, CancerCare Manitoba
