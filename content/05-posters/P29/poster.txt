@@ -2,8 +2,6 @@ ID: P29
 
 ----
 
-Session: SesSession: S--
-
 Author: H.F. Tsui*
 
 ----

@@ -9,3 +9,25 @@
 .margin-top-10 {
 	margin-top: 10px;
 }
+
+.well {
+	margin-top: 20px;
+	.well-title {
+		margin: 0 5px;
+	}
+}
+
+.well-box {
+	background: transparent !important;
+	border: 1px solid $grey;
+	//padding: 0 20px;
+}
+
+#program-links {
+	.well {
+		h2 {
+			margin-top: 0;
+		}
+		padding: 5px 10px;
+	}
+}

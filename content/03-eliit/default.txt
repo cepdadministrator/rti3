@@ -1,0 +1,28 @@
+Title: ELIIT
+
+----
+
+Text: <div class="row">
+	<div class="col-sm-2">
+		<p>(link: program/eliit-program text: View Program class: btn btn-primary btn-block)</p>
+	</div>
+	<div class="col-sm-10">
+		<p><strong>E</strong>xplore all stages of the research process from idea to integration into practice<br>
+		<strong>L</strong>earn the how to’s of the research process<br>
+		<strong>I</strong>nquire at all stages of your practice<br>
+		<strong>I</strong>nitiate research activities and scholarship<br>
+		<strong>T</strong>ransfer knowledge to your peers, colleagues and practice</p>
+
+		<p>ELIIT offers participants the opportunity to learn from and alongside internationally renowned clinician researchers who constitute the editorial board and reviewer consortium of the Journal of Medical Imaging and Radiation Sciences from all disciplines. The academy will teach the basics of research on a practical level, from the novice perspective, highlighting all the stages from fruition of an idea to publication of their work. Participants will receive Category “A” credits.</p>
+
+		<p><strong>Robert Adams</strong>, Ed.D, MPH, RT(R)(T), CMD, PhD, UNC School of Medicine, University of North Carolina, Chapel North Carolina, Chapel Hill, NC, United States</p>
+
+		<p><strong>Geoff Currie</strong>, BPharm, MMedRadSc(NucMed), MAppMngt(Hlth), MBA, PhD, Charles Sturt University, Australian School of Advanced Medicine, Macquarie University, Australia; Rural Clinical School, University of NSW, Australia; Wheeling Jesuit University, USA</p>
+
+		<p><strong>Lisa  Di Prospero</strong>, BSc(Hons), MSc, MRT(T) , Odette Cancer Centre at Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada</p>
+
+		<p><strong>Maryann Hardy</strong>, PhD, DCR(R), University of Bradford, West Yorkshire, United Kingdom</p>
+
+		<p><strong>Heidi Probst</strong>, PhD, MA, BSc(Hons), DCR(T), FETC, Sheffield Hallam University, South Yorkshire, United Kingdom</p>
+	</div>
+</div>

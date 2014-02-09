@@ -1,6 +1,0 @@
-﻿Title: Venue
-
-----
-
-Text: ## Venue Floor Plans
-(image: 89plan2.png alt: Second Floor Plan of 89 Chesnut)

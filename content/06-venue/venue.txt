@@ -1,0 +1,16 @@
+﻿Title: Venue
+
+----
+
+Text: ## Floor Plans
+
+<div class="row">
+	<div class="col-md-6">
+		<h3>Second Floor</h3>
+		(image: 89plan2.png alt: Second Floor Plan of 89 Chesnut class: img-responsive)
+	</div>
+	<div class="col-md-6">
+		<h3>Third Floor</h3>
+		(image: 89plan3.png alt: Third Floor Plan of 89 Chesnut class: img-responsive)
+	</div>
+</div>

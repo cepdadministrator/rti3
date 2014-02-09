@@ -5,22 +5,17 @@
 <section class="content">
 
   <article>
-    <h1><?php echo html($page->title()) ?></h1>
 	
     <?php echo kirbytext($page->text()) ?>
-	
-	
-	<h2>Location</h2>
-	
-	<p>89 Chestnut St<br>Toronto, ON M5G 1R1</p>
-	
+		
+	<h2>Map</h2>
 	<?php 
 
 	snippet('map', array(
-	  'address' => '89 Chesnut St. Toronto',
-	  'zoom'    => 15,
+	  'address' => '15 King’s College Circle, Toronto, Ontario M5S 3H7',
+	  'zoom'    => 16,
 	  //'width'   => 100%,
-	  'height'  => 200
+	  'height'  => 300
 	));
 
 	?>

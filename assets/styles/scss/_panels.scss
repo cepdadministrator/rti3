@@ -1,65 +1,45 @@
 @import "variables";
 
 .downloads {
-	.panel-heading {
-		.badge.pull-right {
-			margin-left: 10px;
+	.thumbnail {
+		padding: 10px 10px 40px 10px;
+		@include respond-to(tablet-landscape-desktop) {
+			border: 1px solid $grey;
+		}
+		@include respond-to(desktop) {
+			border: 1px solid $grey;
+		}
+		@include respond-to(tablet-portrait) {
+			border: none;
+		}
+		&.with-document {
+			background: $lightgrey;
+			@include respond-to(tablet-landscape-desktop) {
+				border: 1px solid $green;
+			}
+			@include respond-to(desktop) {
+				border: 1px solid $green;
+			}
+			@include respond-to(tablet-portrait) {
+				border: none;
+			}
+			
+		}
+	}
+	
+	
+	.panel-footer{
+		@include respond-to(tablet-portrait) {
+			display: none;
+		}
+	}
+	
+	.with-document {
+		.panel-footer{
+			@include respond-to(tablet-portrait) {
+				display: block;
+			}
 		}
 	}
 }
 
-.panel-home-cluster {
-	border: none;
-	background: #f1f1f1;
-	.panel-body {
-		height: 250px;
-		p {
-			font-size: .8em;
-		}
-	}
-	.panel-heading {
-		border: none;
-		h2 {
-			font-size: 1.6em;
-			text-align: center;
-		}
-	}
-
-}
-
-.panel-research {
-	.panel-heading {
-		border-bottom: 10px solid red;
-	}	
-}
-.panel-educate {
-	.panel-heading {
-		border-bottom: 10px solid blue;
-	}	
-}
-
-.panel-learn {
-	.panel-heading {
-		border-bottom: 10px solid green;
-	}	
-}
-
-.modal-header {
-	background: $blue;
-	.close {
-		color: $white;
-		opacity: 1;
-	}
-	.modal-title {
-		color: $white;
-	}
-}
-
-.modal-body {
-	padding-top: 5px;
-}
-
-.modal-footer {
-	margin-top: 0px;
-	padding: 5px 20px;
-}

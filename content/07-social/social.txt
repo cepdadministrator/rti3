@@ -1,0 +1,27 @@
+﻿Title: Social
+
+----
+
+Text: <h1>Social Event</h1>
+
+<div class="well">
+	<h3 class="text-center">Join us in celebration of<br>10 years of<br>Inquiry, Inspiration, &amp; Innovation</h3>
+
+	<h3 class="text-center">RTi3: X – Inspire</h3>
+</div>
+
+<div class="well well-box">
+	<h3 class="text-center">Friday, February 14, 2014<br>at 6:30pm</h3>
+
+	<p class="text-center"><a href="http://www.utac.utoronto.ca/" target="_blank">University of Toronto Art Centre (UTAC)</a><br>
+	15 King’s College Circle<br>
+	Toronto, Ontario M5S 3H7</p>
+</div>
+
+<p class="text-center">Featuring the launch of the new "Research for the Radiation Therapist:From Question to Culture" research book</p>
+
+<p class="text-center">A shuttle bus will depart from Chestnut Conference Centre to the University of Toronto Art Centre at:<br>
+1st trip – 5:50pm<br>
+2nd trip – 6:15pm</p>
+
+<p class="text-center"><em>One drink ticket and hors d’oeuvres are included. Additional cash bar is available.</em></p>

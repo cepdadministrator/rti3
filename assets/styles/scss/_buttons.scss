@@ -1,5 +1,9 @@
 @import "variables";
 
+.btn {
+	text-transform: uppercase;
+}
+
 .btn-primary {
 	background: $blue;
 }

@@ -8,7 +8,7 @@
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
-			<ul class="nav navbar-nav">
+			<ul class="nav navbar-nav pull-right">
 			    <?php foreach($pages->visible() AS $p): ?>
 				    <li <?php echo ($p->isOpen()) ? ' class="active"' : '' ?>><a href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a></li>
 			    <?php endforeach ?>
