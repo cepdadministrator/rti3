@@ -39,6 +39,7 @@ ini_set('display_errors', True);
 
 	<?php echo css('assets/styles/application.css') ?>
 	
+	<?php echo js('assets/js/modernizr.custom.js') ?>
 
 
 	<style type="text/css">

@@ -12,6 +12,18 @@
 	</footer>
 </div>
 
+<div class="overlay overlay-contentscale">
+	<button type="button" class="overlay-close"><i class="fa fa-times"></i></button>
+	<nav>
+		<ul class="">
+		    <?php foreach($pages->visible() AS $p): ?>
+			    <li <?php echo ($p->isOpen()) ? ' class="active"' : '' ?>><a href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a></li>
+		    <?php endforeach ?>
+		</ul>
+	</nav>
+</div>
+
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="//code.jquery.com/jquery.js"></script>
 
@@ -27,10 +39,14 @@
 
 	<?php echo js('assets/js/jquery.equalheights.min.js') ?>
 	<?php echo js('assets/js/jquery.debouncedresize.js') ?>
+	<?php echo js('assets/js/classie.js') ?>
+	<?php echo js('assets/js/demo7.js') ?>
+	
+	
 	
 	<script type="text/javascript">
-		$('.downloads .panel-body').equalHeights();
-		$('.downloads .panel-footer').equalHeights();
+		// $('.downloads .panel-body').equalHeights();
+		// $('.downloads .panel-footer').equalHeights();
 	</script>
 </body>
 
