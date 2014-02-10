@@ -31,3 +31,10 @@
 		padding: 5px 10px;
 	}
 }
+
+.pull-right {
+	&.photo {
+		margin-left: 10px;
+		width: 120px;
+	}
+}

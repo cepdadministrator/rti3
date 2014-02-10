@@ -2,21 +2,65 @@
 
 ----
 
-Text: ## Inquire
-**Ms. Cynthia Eccles RTT, RTMR, BSc DPhil(c)**<br>
-Research Radiographer, Gray Institute for Radiation Oncology and Biology, University of Oxford
+Text: <h2>Innovate Keynote Speakers: Tessa Larsen and Dennis Vergel de Dios</h2>
+<p><strong>Session Objectives: </strong></p>
+<ol>
+	<li>Learn how to strategize to develop and implement a new model of care using existing staffing resources.</li>
+	<li>Measures to evaluate success and improvement over time.</li>
+	<li>Future directions.</li>
+</ol>
 
-## Inspire
-**Dr. Heidi Probst PhD, MA, BSc(Hons), FCR**<br>
-Lecturer & Researcher, Sheffield Hallam University
+<h3>Tessa Larsen</h3>
+<p>(image: Tessa-Larsen.jpg alt: Tessa Larsen class: pull-right thumbnail photo)Tessa Larsen obtained her diploma in Radiotherapy at the Ontario Cancer Institute/Princess Margaret Hospital and B.Sc in Radiation Therapy from Anglia Polytechnic. </p>
 
-## Innovate
-**Mr. Dennis Vergel de Dios MRT(T) BSc**<br>
-Mississauga Halton/Central West Regional Cancer Program
+<p>Tessa is currently a Supervisor, Radiation Therapy, Mississauga Halton/Central West Regional Cancer program with a focus on health informatics, process and practice improvement. Tessa’s leadership and contributions in process development and clin¬ical informatics has helped the Radiation Program at the Credit Valley Hospital (CVH) achieve the recognition of leading provincially in efficiency, treatment wait times and peer review and internationally as a Varian Centre of Excellence. </p>
 
-**Ms. Tessa Larsen MRT(T) BSc**<br>
-Radiation Informatics System Specialist/Supervisor, Mississauga Halton/Central West Regional Cancer Program
+<p>Tessa’s passion and commitment to staff development have created opportunities for CVH radiation therapists to gain experience in leadership, research, supportive care and informatics. Innovations in radiation therapy practice at CVH enabled radiation therapists to play a significant role in supportive care, improving patient experience and research. Cancer Care Ontario acknowledged the initiative as an important patient experience quality initiative. </p>
 
-## Interprofessional
-**Dr. Anne Katz RN PhD**<br>
-Clinical Nurse Specialist & Sexuality Counselor, CancerCare Manitoba
+<h3>Dennis Vergel de Dios</h3>
+<p>(image: Dennis-Vergel-de-Dios.jpg alt: Dennis Vergel de Dios class: pull-right thumbnail photo)Dennis Vergel de Dios has a bachelor’s degree in Biology from the University of Waterloo and a second bachelor’s degree in Radiation Sciences from University of Toronto. </p>
+<p>He is currently a radiation therapist at the Mississauga Halton / Central West Regional Cancer Program at Trillium Health Partners - Credit Valley Hospital. </p>
+<p>Dennis started working at the Credit Valley Hospital in 2008 and has since been in¬volved in many patient care initiatives including the production of Patient Education Vid¬eos for External Beam Radiotherapy and Brachytherapy as well as the implementation of the Smoking Cessation Program in the Radiation Therapy Department. </p>
+<p>He has also been one of the leads in the continuing development of the Radiation Ther¬apy Preparation and Education Team and the INSPIRES project.</p>
+
+
+<h2>Inspire Invited Speaker: Heidi Probst PhD, MA, BSc(HONS), FCR</h2>
+<p><strong>Session Objectives: </strong></p>
+<p>By the end of the presentation delegates will be able to:</p>
+<ol>
+	<li>Appraise the attributes required of Radiation Therapists to drive forward service change, relating these to their own current and future aspirations.</li>
+	<li>Apply knowledge on the development of intrapreneurial skills to enhance their own personal innovative behaviours.</li>
+</ol>
+
+<h3>Heidi Probst</h3>
+<p>(image: Heidi-Probst.jpg alt: Heidi Probst class: pull-right thumbnail photo)<strong>Qualifications</strong></p>
+<p>Completed her PhD in 2002 ; a randomised controlled trial (n=360) investigating radiotherapy for breast cancer.</p>
+<p><strong>Current role</strong></p>
+<p>Reader in Radiotherapy at Sheffield Hallam University where she has worked as a lecturer and researcher since 2001.</p>
+<p>Qualified in 1987 from the London Hospital School of Radiography and after a short period of employment at The London Heidi moved to Leeds where she spent 13 years in clinical practice specialising in pre-treatment simulation (Superintendent II).</p>
+<p>At Sheffield Hallam University Heidi teaches breast cancer radiotherapy, research methods and supervise MSc and doctoral students. She is also a research team leader for the Radiotherapy and Oncology team. Her research interests are in radiotherapy for breast cancer (currently PI for a study developing a breast immobilization devise for women undergoing breast irradiation with an intact breast), the radiotherapy workforce (particularly burnout or compassion fatigue and the development of professional resilience) and e-learning and smartphone technology (recently developed a smartphone app with the company MyKnowledgeMap for the development of research skills in Allied Health Professionals)</p>
+<p>In 2011 Heidi was awarded a Fellowship from the College of Radiographers (CoR) for contribution to the science of radiography.</p>
+<p>She is currently co-chair of the CoR research group and chair of the CoR research funding panel, a member of the UK national Radiotherapy workforce group and a National Institute for Health Research (NIHR) Allied Health Professions research mentor.</p>
+ 
+<h2>Inquire Invited Speaker: Cynthia Eccles</h2>
+<p><strong>Session Objectives:</strong></p>
+<p>By the end of this session participants will be able to: </p>
+<ol>
+	<li>Recognize the transferability of knowledge and skills across multidisciplinary research inquiries in radiotherapy</li>
+	<li>Recognize the importance of the evolution of radiotherapy research questions</li>
+</ol>
+
+<h3>Cynthia Eccles</h3>
+<p>(image: Cynthia-Eccles.jpg alt: Cynthia Eccles class: pull-right thumbnail photo)Cynthia Eccles is a Canadian trained research radiographer (radiation therapist), duo-qualified in diagnostic MRI following Bachelors Degrees in Biology and Health at Queen’s University, Kingston. Cynthia relocated to the Churchill Hospital, Oxford in 2009, from the Princess Margaret Hospital’s Radiation Medicine Program in Toronto, where she is currently RTT Research and Development lead, and a graduate student reading for a DPhil in Radiobiology at the University of Oxford. Previously, Cynthia’s research at the Princess Margaret Hospital (PMH), in Toronto, focused on the develop¬ment and clinical implementation of multimodality imaging for radiotherapy treatment planning, online image guided treatment strategies and extra-cranial stereotactic ra-diotherapy. Her DPhil work focuses on the use of MRI in the early detection of normal tissue toxicities in lungs irradiated with and without targeted radiosensitizing agents. Cynthia has been a member of the BIR Oncology Committee, and is currently a mem¬ber of ASTRO’s International Education Subcommittee and it’s Clinical, Translational and Basic Science Advisory Committee.  </p>
+
+<h2>Interprofessional Invited Speaker: Anne Katz, RN, PhD</h2>
+<p><strong>Session Objectives:</strong></p>
+<ol>
+	<li>1.	Inquire what you know about cancer survivorship</li>
+	<li>2.	Inspire you to imagine innovative interventions for these issues</li>
+</ol>
+
+<h3>Anne Katz</h3>
+<p>(image: Anne-Katz.jpg alt: Anne Katz class: pull-right thumbnail photo)Dr. Anne Katz is the sexuality counselor at CancerCare Manitoba and Clinical Nurse Specialist at the Manitoba Prostate Centre. In these roles she counsels men and wom¬en with a history of cancer who are experiencing sexual and relationship challenges. She also supports couples through recurrence and treatment decisions at that point. She runs a Sexual Rehabilitation program for women after radiation therapy.</p>
+<p>She has spoken at multiple international conferences and meetings in North American, Europe and beyond where she has educated health care providers and cancer survi¬vors about cancer, sexuality and survivorship. Dr Katz maintains a joint appointment in the Faculty of Nursing at the University of Manitoba where she teaches in the graduate program. She is the editor of the Oncology Nursing Forum, the premier research journal of the Oncology Nursing Society.</p>
+<p>She is the author of 8 books for health care providers and health care consumers on the topics of illness and sexuality as well as cancer survivorship. Her most recent and book – This Should Not Be Happening: Young Adults with Cancer was published in January 2014.</p>

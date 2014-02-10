@@ -45,8 +45,8 @@
 	
 	
 	<script type="text/javascript">
-		// $('.downloads .panel-body').equalHeights();
-		// $('.downloads .panel-footer').equalHeights();
+		$('.downloads .panel-body').equalHeights();
+		$('.downloads .panel-footer').equalHeights();
 	</script>
 </body>
 
