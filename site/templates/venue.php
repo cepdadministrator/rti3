@@ -20,7 +20,7 @@
 	  'address' => '89 Chesnut St. Toronto',
 	  'zoom'    => 15,
 	  //'width'   => 100%,
-	  'height'  => 200
+	  'height'  => 300
 	));
 
 	?>

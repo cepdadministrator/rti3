@@ -4,15 +4,15 @@
 
 Text: <div class="row">
 	<div class="col-sm-4">
-		<h2><small>February 13, 2014: Pre-Conference</small><br>ELIIT Research Academy</h2>
-		<p>(link: program/eliit-program text: View class: btn btn-block btn-primary)</p>
+		<h2><small>February 13, 2014</small><br></h2>
+		<p>(link: program/eliit-program text: ELIIT class: btn btn-block btn-success)</p>
 	</div>
 	<div class="col-sm-4">
-		<h2><small>February 14, 2014</small><br>Program Day 1</h2>
-		<p>(link: program/program-day-1 text: View class: btn btn-block btn-primary)</p>
+		<h2><small>February 14, 2014</small></h2>
+		<p>(link: program/program-day-1 text: Day 1 class: btn btn-block btn-success)</p>
 	</div>
 	<div class="col-sm-4">
-		<h2><small>February 15, 2014</small><br>Program Day 2</h2>
-		<p>(link: program/program-day-2 text: View class: btn btn-block btn-primary)</p>
+		<h2><small>February 15, 2014</small></h2>
+		<p>(link: program/program-day-2 text: Day 2 class: btn btn-block btn-success)</p>
 	</div>
 </div>

@@ -45,3 +45,9 @@
 		width: 100%;
 	}
 }
+
+.btn-home-direction {
+	@include respond-to(tablet-portrait) {
+		margin-bottom: 10px;
+	}	
+}

@@ -2,25 +2,14 @@
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Text: Dear Colleague,
 
-## Keynote Speakers
+Welcome to the tenth annual RTi3 Conference, hosted by the University of Toronto’s Department of Radiation Oncology. The richness and scope of the program that is to be offered over the next two days, founded on the three pillars of Inquiry, Inspiration, and Innovation, reflects on the calibre and depth of the work being carried out by radiation therapists across Canada, and internationally.   In 2014, the comprehensive program is designed to highlight current research, practice innovations and provocative discussions. The aim of the planning committee is to provide a forum that showcases research and innovation led by radiation therapists in both their clinical and educational practice.  As well as the academic offerings, we hope that you will participate in the opportunities to network with delegates from across the country and the world.
 
-### Inquire
-**Ms. Cynthia Eccles RTT, RTMR, BSc DPhil(c)**<br>
-Research Radiographer, Gray Institute for Radiation Oncology and Biology, University of Oxford
+We hope you enjoy the conference and leave with inspiration to make a change at your organization!
 
-### Inspire
-**Dr. Heidi Probst PhD, MA, BSc(Hons), FCR**<br>
-Lecturer & Researcher, Sheffield Hallam University
-
-### Innovate
-**Mr. Dennis Vergel de Dios MRT(T) BSc**<br>
-Mississauga Halton/Central West Regional Cancer Program
-
-**Ms. Tessa Larsen MRT(T) BSc**<br>
-Radiation Informatics System Specialist/Supervisor, Mississauga Halton/Central West Regional Cancer Program
-
-### Interprofessional
-**Dr. Anne Katz RN PhD**<br>
-Clinical Nurse Specialist & Sexuality Counselor, CancerCare Manitoba
+<div class="row">
+	<div class="col-sm-4">(link: keynotes text: Keynotes class: btn btn-block btn-success btn-home-direction)</div>
+	<div class="col-sm-4">(link: program text: Program class: btn btn-block btn-success btn-home-direction)</div>
+	<div class="col-sm-4">(link: posters text: Posters class: btn btn-block btn-success btn-home-direction)</div>
+</div>

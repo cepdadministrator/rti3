@@ -6,20 +6,19 @@ ini_set('display_errors', True);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
-  <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
-  <meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	
-	<meta name="apple-mobile-web-app-title" content="RTi3">
 
-	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
 
+	<meta charset="utf-8" />
 	<meta name="description" content="<?php echo html($site->description()) ?>" />
 	<meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
 	<meta name="robots" content="index, follow" />
 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-title" content="RTi3">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
     <link rel="apple-touch-icon-precomposed" href="<?php echo url('assets/icons/RTi3-76.png') ?>" />
 	<link rel="apple-touch-icon" href="<?php echo url('assets/icons/RTi3-120.png') ?>"/>
@@ -30,8 +29,8 @@ ini_set('display_errors', True);
 	
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<link href="css/ie_styles.css" rel="stylesheet" media="screen">
+		<?php echo js('assets/js/html5shiv.js') ?>
+		<?php echo css('assets/styles/ie_styles.css') ?>
 	<![endif]-->
 
 	<!-- Fonts dot com -->
@@ -41,16 +40,7 @@ ini_set('display_errors', True);
 	
 	<?php echo js('assets/js/modernizr.custom.js') ?>
 
-
-	<style type="text/css">
-		.thumbnail {
-			border: none;
-		}
-	</style>
-	
-	
-
 </head>
 
 <body>
-	<div data-role="page" id="index">
+	<div data-role="page" id="index" class="">
