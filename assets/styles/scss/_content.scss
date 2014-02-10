@@ -38,3 +38,10 @@
 		width: 120px;
 	}
 }
+
+.sponsor-logo {
+	@include respond-to(phone) {
+		margin-bottom: 20px;
+		width: 100%;
+	}
+}

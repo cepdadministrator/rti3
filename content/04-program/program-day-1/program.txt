@@ -17,7 +17,7 @@ Text: <table class="table table-bordered table-striped">
   </tr>
   <tr>
 	  <td>9:30 – 10:15</td>
-	  <td colspan="2"><strong>&quot;Innovate&quot; Invited Keynote Speaker</strong><br><em>T. Larsen &amp; D. Vergel de Dios</em></td>
+	  <td colspan="2">(link: keynotes#Innovate text: Bio & Objectives class: btn btn-sm btn-success pull-right)<strong>&quot;Innovate&quot; Invited Keynote Speaker</strong><br><em>T. Larsen &amp; D. Vergel de Dios</em></td>
   </tr>
   <tr>
 	  <td>10:15 – 10:45</td>
@@ -124,7 +124,7 @@ Text: <table class="table table-bordered table-striped">
 	</tr>
 	<tr>
 		<td>4:30 – 5:15</td>
-		<td colspan="3"><strong>&quot;Inspire&quot; Invited Keynote Speaker</strong><br>
+		<td colspan="3">(link: keynotes#Inspire text: Bio & Objectives class: btn btn-sm btn-success pull-right)<strong>&quot;Inspire&quot; Invited Keynote Speaker</strong><br>
 		<em>H. Probst</em></td>
 	</tr>
 	<tr>

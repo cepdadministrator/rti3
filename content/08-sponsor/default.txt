@@ -2,4 +2,29 @@
 
 ----
 
-Text: 
+Text: ### We gratefully acknowledge our sponsors.
+
+<div class="text-center">
+<h2>Platinum</h2>
+<div class="row">
+	<div class="col-md-6">
+		(image: ELEKTA.jpg alt: ELEKTA class: sponsor-logo)
+	</div>
+	<div class="col-md-6">
+		(image: VARIAN.jpg alt: VARIAN class: sponsor-logo)
+	</div>
+</div>
+
+<h2>Silver</h2>
+<div class="row">
+	<div class="col-md-6">
+		(image: OICR.jpg alt: Ontario Institute for Cancer Research class: sponsor-logo)
+	</div>
+	<div class="col-md-6">
+		(image: MICHENER.jpg alt: The Michener Institute class: sponsor-logo)
+	</div>
+</div>
+
+<h2>Bronze</h2>
+(image: PHILIPS.png alt: Philips class: sponsor-logo)
+</div>
