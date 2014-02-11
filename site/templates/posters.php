@@ -1,6 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 <?php snippet('submenu') ?>
+<?php snippet('poster-helper') ?>
 
 <section class="content">
 	<article>
@@ -23,7 +24,7 @@
 						<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 							<div class="panel panel-default <?php echo $classadd; ?>">
 								<div class="panel-body">
-									<p><span class="badge"><?php echo html($poster->id()) ?></span> <?php echo $fileicon; ?></p>
+									<p><span class="badge">P<?php echo html($poster->id()) ?> </span> <span id="<?php echo seoUrl($poster->session()) ?>" class="pull-right"><?php echo html($poster->session()) ?></span></p>
 									<?php echo html($poster->title()) ?>
 									<p class="author"><?php echo html($poster->author()) ?></p>
 								</div>

@@ -1,4 +1,4 @@
-ID: P22
+ID: 22
 
 ----
 
@@ -10,4 +10,4 @@ Author: S. Malam
 
 ----
 
-Title: ETitle: ETitle: ETitle: ETitle: ETitle: ETitle: ETitle: ETitle:Sequencing (CFS) in delivering lengthy IMRT Treatments at Stronach Regional Cancer Centre
+Title: Evaluation of the suitability and safety of Consolidated Field Sequencing (CFS) in delivering lengthy IMRT Treatments at Stronach Regional Cancer Centre

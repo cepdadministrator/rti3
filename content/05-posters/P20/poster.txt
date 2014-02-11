@@ -1,4 +1,4 @@
-ID: P20
+ID: 20
 
 ----
 
@@ -10,4 +10,4 @@ Author: F. Lo*
 
 ----
 
-Title: Patient satisfaction and the perceived role of Palliative RTitle: Patient satisfaction and the perceived role prove?
+Title: Patient satisfaction and the perceived role of Palliative Radiation Therapy Summaries (PaRTS): Where can we improve?

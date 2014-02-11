@@ -1,4 +1,4 @@
-ID: P7
+ID: 7
 
 ----
 
@@ -10,4 +10,4 @@ Author: C. Anderson
 
 ----
 
-Title: Is music therapy an effective wTitle: Is musdistress and Title: Is oping skills in pediatric oncology patients during their first radiation therapy treatment?
+Title: Is music therapy an effective way to reduce distress and increase coping skills in pediatric oncology patients during their first radiation therapy treatment?

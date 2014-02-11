@@ -1,4 +1,4 @@
-ID: P16
+ID: 16
 
 ----
 
@@ -10,4 +10,4 @@ Author: K. McGrath
 
 ----
 
-Title: Single-step radiatioTitle: Single-step radiatioTitle: Single-step radiatioTitle: Single-step radiatioTitle: Sibone metastases
+Title: Single-step radiation treatment planning: a feasibility study of on-line radiation planning for patients with bone metastases

@@ -1,4 +1,4 @@
-ID: P8
+ID: 8
 
 ----
 
@@ -10,4 +10,4 @@ Author: C. Lavergne
 
 ----
 
-Title: Understanding and Addressing the Informational Needs of RaTitle: Understanding and Addressing the Informational Needs of RaTiion in Patients Receiving Radiation Therapy Treatment
+Title: Understanding and Addressing the Informational Needs of Radiation Therapists Concerning the Management of Anxiety and Depression in Patients Receiving Radiation Therapy Treatment

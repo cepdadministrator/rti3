@@ -1,4 +1,4 @@
-ID: P6
+ID: 6
 
 ----
 
@@ -10,4 +10,4 @@ Author: M. Kang*
 
 ----
 
-Title: Do online support groups meTitle: Do online al needs of young adults with cancer?
+Title: Do online support groups meet the psychosocial needs of young adults with cancer?

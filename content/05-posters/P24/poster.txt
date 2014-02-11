@@ -1,4 +1,4 @@
-ID: P24
+ID: 24
 
 ----
 
@@ -10,12 +10,4 @@ Author: C. Dickie
 
 ----
 
-Title: Evidence Based IMRT objectives and planning strategies to improve Soft Tissue Sarcoma normal tissue outcTitle: Evidence Based IMRT objectives and planning strategies to improve Soft Tissue Sar
-
-----
-
-Author: R. Urban*
-
-----
-
-Title: Evaluation of the trade-offs for coplanar and non-coplanar treatment techniques for lung SBRT
+Title: Evidence Based IMRT objectives and planning strategies to improve Soft Tissue Sarcoma normal tissue outcomes
