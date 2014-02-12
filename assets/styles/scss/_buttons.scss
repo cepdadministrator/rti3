@@ -37,3 +37,27 @@
 		color: $green;
 	}		
 }
+
+#application-icons {
+    a {
+        color: $green;
+        &:hover{
+            text-decoration: none !important;
+        }
+    }
+    .thumbnail {
+        text-align: center;
+        padding: 20px 0;
+        &:hover {
+            background: $lightgrey;
+        }
+        i {
+            font-size: 2em;
+        }
+        p {
+            font-size: 1em;
+            margin-top: 10px;
+            text-transform: uppercase;
+        }
+    }
+}

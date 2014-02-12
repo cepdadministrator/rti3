@@ -41,12 +41,46 @@
 	<?php echo js('assets/js/jquery.debouncedresize.js') ?>
 	<?php echo js('assets/js/classie.js') ?>
 	<?php echo js('assets/js/demo7.js') ?>
+	<?php echo js('assets/js/jquery.mixitup.min.js') ?>
 	
 	
 	
 	<script type="text/javascript">
 		$('.downloads .panel-body').equalHeights();
 		$('.downloads .panel-footer').equalHeights();
+		
+		$(function(){
+     
+			$('#Grid').mixitup({
+			    targetSelector: '.mix',
+			    filterSelector: '.filter',
+			    sortSelector: '.sort',
+			    buttonEvent: 'click',
+			    effects: ['fade','scale'],
+			    listEffects: null,
+			    easing: 'smooth',
+			    layoutMode: 'grid',
+			    targetDisplayGrid: 'inline-block',
+			    targetDisplayList: 'block',
+			    gridClass: '',
+			    listClass: '',
+			    transitionSpeed: 600,
+			    showOnLoad: 'all',
+			    sortOnLoad: false,
+			    multiFilter: false,
+			    filterLogic: 'or',
+			    resizeContainer: true,
+			    minHeight: 0,
+			    failClass: 'fail',
+			    perspectiveDistance: '3000',
+			    perspectiveOrigin: '50% 50%',
+			    animateGridList: true,
+			    onMixLoad: null,
+			    onMixStart: null,
+			    onMixEnd: null
+			});
+     
+		});
 	</script>
 </body>
 

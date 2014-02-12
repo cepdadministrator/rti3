@@ -10,7 +10,48 @@
 		<div class="col-md-10 col-md-push-2">
 			<div class="row">
 				<div class="col-md-8"><h1>Welcome</h1>
-				<?php echo kirbytext($page->text()) ?>
+				    <?php echo kirbytext($page->text()) ?>
+                    <div id="application-icons">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('keynotes') ?>" class="thumbnail">
+                                    <i class="fa fa-microphone"></i>
+                                    <p>Keynotes</p>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('posters') ?>" class="thumbnail">
+                                    <i class="fa fa-file-text-o"></i>
+                                    <p>Posters</p>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('program') ?>" class="thumbnail">
+                                    <i class="fa fa-calendar"></i>
+                                    <p>Program</p>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('venue') ?>" class="thumbnail">
+                                    <i class="fa fa-map-marker"></i>
+                                    <p>Venue</p>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('social') ?>" class="thumbnail">
+                                    <i class="fa fa-glass"></i>
+                                    <p>Social</p>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-4 col-xs-6">
+                                <a href="<?php echo u('sponsors') ?>" class="thumbnail">
+                                    <i class="fa fa-certificate"></i>
+                                    <p>Sponsors</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div> <!-- #application-icons -->
+
 				</div>
 				<div class="col-md-4">
 					<!--<div class="twitter-widget">

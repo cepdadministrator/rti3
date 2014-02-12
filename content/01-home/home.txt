@@ -7,9 +7,3 @@ Text: Dear Colleague,
 Welcome to the tenth annual RTi3 Conference, hosted by the University of Toronto’s Department of Radiation Oncology. The richness and scope of the program that is to be offered over the next two days, founded on the three pillars of Inquiry, Inspiration, and Innovation, reflects on the calibre and depth of the work being carried out by radiation therapists across Canada, and internationally.   In 2014, the comprehensive program is designed to highlight current research, practice innovations and provocative discussions. The aim of the planning committee is to provide a forum that showcases research and innovation led by radiation therapists in both their clinical and educational practice.  As well as the academic offerings, we hope that you will participate in the opportunities to network with delegates from across the country and the world.
 
 We hope you enjoy the conference and leave with inspiration to make a change at your organization!
-
-<div class="row">
-	<div class="col-sm-4">(link: keynotes text: Keynotes class: btn btn-block btn-success btn-home-direction)</div>
-	<div class="col-sm-4">(link: program text: Program class: btn btn-block btn-success btn-home-direction)</div>
-	<div class="col-sm-4">(link: posters text: Posters class: btn btn-block btn-success btn-home-direction)</div>
-</div>
