@@ -32,7 +32,7 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 	<tr class="hidden-xs">
 		<td width="10%">11:00 - 12:15</td>
 		<td width="45%"><h3><small>Proffered Paper Session 5</small><br>Toxicities &amp; Outcomes</h3>
-			<p><strong>(Moderator: L Di Prospero )</strong><br><em>(Colony Ballroom)</em></p>
+			<p><strong>(Moderator: L Di Prospero )</strong><br><em>(St David Room, 3rd Floor)</em></p>
 			<p>O59 - Radiation-Induced High Toxicities and Local Recurrence in Stage 3 and 4 Oropharynx Cancer Patients<br><em>D. Al-Qinneh*</em></p>
 			<p>O60 - Factors that influence the acceptability of telemedicine as a means to evaluate treatment outcome for patients completing palliative radiotherapy<br><em>M. Lau</em></p>
 			<p>O61- Retrospective analysis of factors affecting treatment outcomes and patient experience in elderly head and neck patients: the OCC Experience<br><em>N. Gregor*</em></p>
@@ -40,7 +40,7 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 			<p>O63 - Characteristics of women requiring active breathing control for heart sparing in whole breast radiotherapy<br><em>G. Lee</em></p>
 		</td>
 		<td width="45%"><h3>National Innovation Snapshot</h3>
-			<p><strong>(Moderator: C Gillan, C Vanderwater)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+			<p><strong>(Moderator: C Gillan, C Vanderwater)</strong><br><em>(Colony Ballroom)</em></p>
 			<p>TrueBeam Exactrack system (C. Summers)</p>
 			<p>QA Task Force (A. Kelly)</p>
 			<p>RTTs in Dermatology Clinics (A. Patry)</p>
