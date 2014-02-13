@@ -56,8 +56,10 @@
         
 		$(function(){
 			$('#Grid').mixitup({
+                effects: ['fade'],
 			    targetDisplayGrid: 'block',
-			    targetDisplayList: 'block'
+			    targetDisplayList: 'block',
+                transitionSpeed: 200
 			});
 		});
 	</script>
