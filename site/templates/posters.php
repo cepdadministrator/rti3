@@ -15,7 +15,7 @@
             </div> -->
 			
 			<div class="downloads">
-				<div id="Grid" class="row">
+				<div class="row">
 					<?php
 					$posters = $pages->find('posters')->children();
 					foreach( $posters->sortBy($sort='id', $dir='asc') as $poster) :
@@ -33,7 +33,11 @@
 							<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 								<div class="panel panel-default <?php echo $classadd; ?>">
 									<div class="panel-body">
+                                        <?php if (strpos($poster->id(),'.') !== false) { ?>
+                                            <p><span class="badge">TOP RANKED </span> <span id="<?php echo seoUrl($poster->session()) ?>" class="pull-right"><?php echo html($poster->session()) ?></span></p>
+                                            <?php } else { ?>
 										<p><span class="badge">P<?php echo $poster->id() ?> </span> <span id="<?php echo seoUrl($poster->session()) ?>" class="pull-right"><?php echo html($poster->session()) ?></span></p>
+                                        <?php } ?>
 										<?php echo html($poster->title()) ?>
 										<p class="author"><?php echo html($poster->author()) ?></p>
 									</div>
