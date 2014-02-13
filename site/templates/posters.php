@@ -6,16 +6,30 @@
 <section class="content">
 	<article>
 			<h1>Posters</h1>
-			
-            <!-- <div class="controls">
-                <button class="btn btn-default filter" data-filter="session-1">Session 1</button>
-                <button class="btn btn-default filter" data-filter="session-2">Session 2</button>
-                <button class="btn btn-default filter" data-filter="session-3">Session 3</button>
-                <button class="btn btn-default filter" data-filter="session-4">Session 4</button>
-            </div> -->
+
+            <div id="poster-selection">
+                <div class="btn-group btn-group-justified hidden-xs">
+                    <a href="" class="btn btn-default filter" data-filter="all">All</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-1">Session 1</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-2">Session 2</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-3">Session 3</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-4">Session 4</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-5">Session 5</a>
+                </div>
+                <div class="btn-group btn-group-vertical visible-xs">
+                    <a href="" class="btn btn-default filter" data-filter="all">All</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-1">Session 1</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-2">Session 2</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-3">Session 3</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-4">Session 4</a>
+                    <a href="" class="btn btn-default filter" data-filter="session-5">Session 5</a>
+                </div>               
+            </div>
+
+
 			
 			<div class="downloads">
-				<div class="row">
+				<div id="Grid" class="row">
 					<?php
 					$posters = $pages->find('posters')->children();
 					foreach( $posters->sortBy($sort='id', $dir='asc') as $poster) :
@@ -29,7 +43,7 @@
 						
 						?>	
 						
-						<div id="P<?php echo $poster->id() ?>" class="<?php echo seoUrl($poster->session()) ?>">
+						<div id="P<?php echo $poster->id() ?>" class="mix <?php echo seoUrl($poster->session()) ?>">
 							<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 								<div class="panel panel-default <?php echo $classadd; ?>">
 									<div class="panel-body">
