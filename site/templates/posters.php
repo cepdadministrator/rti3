@@ -9,21 +9,22 @@
 
             <div id="poster-selection">
                 <div class="btn-group btn-group-justified hidden-xs">
-                    <a href="" class="btn btn-default filter" data-filter="all">All</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-1">Session 1</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-2">Session 2</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-3">Session 3</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-4">Session 4</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-5">Session 5</a>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="all">All</button></div>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="session-1">Session 1</button></div>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="session-2">Session 2</button></div>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="session-3">Session 3</button></div>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="session-4">Session 4</button></div>
+                    <div class="btn-group"><button class="btn btn-default filter" data-filter="session-5">Session 5</button></div>
                 </div>
                 <div class="btn-group btn-group-vertical visible-xs">
-                    <a href="" class="btn btn-default filter" data-filter="all">All</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-1">Session 1</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-2">Session 2</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-3">Session 3</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-4">Session 4</a>
-                    <a href="" class="btn btn-default filter" data-filter="session-5">Session 5</a>
-                </div>               
+                    <button class="btn btn-sm btn-default filter" data-filter="all">All</button>
+                    <button class="btn btn-sm btn-default filter" data-filter="session-1">Session 1</button>
+                    <button class="btn btn-sm btn-default filter" data-filter="session-2">Session 2</button>
+                    <button class="btn btn-sm btn-default filter" data-filter="session-3">Session 3</button>
+                    <button class="btn btn-sm btn-default filter" data-filter="session-4">Session 4</button>
+                    <button class="btn btn-sm btn-default filter" data-filter="session-5">Session 5</button>
+                </div>
+
             </div>
 
 
