@@ -29,7 +29,7 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
         <em>10:55 – 11:00 – Posters #18 - #21</em>
         (link: posters text: View Posters class: btn btn-sm btn-success pull-right)</td>
 	</tr>
-	<tr>
+	<tr class="hidden-xs">
 		<td width="10%">11:00 - 12:15</td>
 		<td width="45%"><h3><small>Proffered Paper Session 5</small><br>Toxicities &amp; Outcomes</h3>
 			<p><strong>(Moderator: L Di Prospero )</strong><br><em>(Colony Ballroom)</em></p>
@@ -57,6 +57,37 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 			<p>MRgRT Program Implementation (C. Dickie)</p>
 		</td>
 	</tr>
+
+	<tr class="visible-xs">
+		<td width="10%">11:00 - 12:15</td>
+		<td colspan="2"><h3><small>Proffered Paper Session 5</small><br>Toxicities &amp; Outcomes</h3>
+			<p><strong>(Moderator: L Di Prospero )</strong><br><em>(Colony Ballroom)</em></p>
+			<p>O59 - Radiation-Induced High Toxicities and Local Recurrence in Stage 3 and 4 Oropharynx Cancer Patients<br><em>D. Al-Qinneh*</em></p>
+			<p>O60 - Factors that influence the acceptability of telemedicine as a means to evaluate treatment outcome for patients completing palliative radiotherapy<br><em>M. Lau</em></p>
+			<p>O61- Retrospective analysis of factors affecting treatment outcomes and patient experience in elderly head and neck patients: the OCC Experience<br><em>N. Gregor*</em></p>
+			<p>O62 - Stereotactic Body Radiotherapy (SBRT) for Primary Non-Small Cell Lung Cancer (NSCLC) and Pulmonary Metastases: Analysis of Outcomes and Predictive Factors for Local Control<br><em>D. Erler</em></p>
+			<p>O63 - Characteristics of women requiring active breathing control for heart sparing in whole breast radiotherapy<br><em>G. Lee</em></p>
+
+            <h3>National Innovation Snapshot</h3>
+			<p><strong>(Moderator: C Gillan, C Vanderwater)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+			<p>TrueBeam Exactrack system (C. Summers)</p>
+			<p>QA Task Force (A. Kelly)</p>
+			<p>RTTs in Dermatology Clinics (A. Patry)</p>
+			<p>IV Contrast (P. Warden)</p>
+			<p>Rocket Rounds (T. Hill)</p>
+			<p>10hour / 4day staffing model (M. Cardoso)</p>
+			<p>Lung Hybrid RapidArc Planning (M. Greig)</p>
+			<p>Huddle Board (K. Morin)</p>
+			<p>RTT Patient Navigator (S. Smith)</p>
+			<p>Whole CNS Technique (K. Osmar)</p>
+			<p>Journal Club (J. Jacques)</p>
+			<p>Prostate Imaging (T. Campbell)</p>
+			<p>Multidisciplinary Review Clinic (J. Tyndall)</p>
+			<p>MRgRT Program Implementation (C. Dickie)</p>
+		</td>
+	</tr>
+
+
 	<tr>
 		<td>12:15 - 12:40 </td>
 		<td colspan="2"><strong>Poster Viewing Session #4</strong><br>(Giovanni Room)
@@ -77,7 +108,7 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 </table>
 
 <table class="table table-bordered table-striped">	
-	<tr>
+	<tr class="hidden-xs">
 		<td width="10%">1:30 - 2:30</td>
 		<td width="45%"><h3><small>Proffered Paper Session 6</small><br>Supportive care &amp; side effect management</h3>
 			<p><strong>(Moderator: K McGrath)</strong><br><em>(Colony Ballroom)</em></p>
@@ -91,8 +122,24 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 			<p>W3 - Sexual health issues in gyne cancer patients receiving radiotherapy: radiation therapists role in technical and supportive care<br><em>A.Turner &amp; K. Chan</em></p>
 		</td>
 	</tr>
+
+	<tr class="visible-xs">
+		<td width="10%">1:30 - 2:30</td>
+		<td colspan="2"><h3><small>Proffered Paper Session 6</small><br>Supportive care &amp; side effect management</h3>
+			<p><strong>(Moderator: K McGrath)</strong><br><em>(Colony Ballroom)</em></p>
+			<p>O64 - Implementation of a pre-rt patient assessment role at the SRCC<br><em>S. Smith</em></p>
+			<p>O65 - Exploring healthcare professional’s comfort level and self-assessed competency on providing patient care to young breast cancer patients<br><em>L. Tathanhlong*</em></p>
+			<p>O66 - Food for thought: are RTTs able to recognize patients who would benefit from dietary counselling?<br><em>A. Erlich*</em></p>
+			<p>O67 - Barriers to consensus in standardizing the management of skin rxns in breast cancer patients: a review of the literature<br><em>M. Cardoso</em></p>
+
+            <h3>Workshop 4</h3>
+			<p><strong>(Moderator: L D’Alimonte)</strong><br><em>(St. Patrick Room, 3rd Floor)</em></p>
+			<p>W3 - Sexual health issues in gyne cancer patients receiving radiotherapy: radiation therapists role in technical and supportive care<br><em>A.Turner &amp; K. Chan</em></p>
+		</td>
+	</tr>
+
 	
-	<tr>
+	<tr class="hidden-xs">
 		<td>2:30 - 3:45</td>
 		<td><h3><small>Proffered Papers Session 7</small><br>Incident  reporting and quality of care</h3>
 			<p><strong>(Moderator: R Case)</strong><br><em>(Colony Ballroom)</em></p>
@@ -112,6 +159,27 @@ Text: <!-- **************************** PROGRAM DAY TWO ************************
 			<p>O78 - Stories at Work: Writing to Learn, Care, and Collaborate in Radiation Therapy.<br><em>K Osmar</em></p>		
 		</td>
 	</tr>
+	<tr class="visible-xs">
+		<td>2:30 - 3:45</td>
+		<td colspan="2"><h3><small>Proffered Papers Session 7</small><br>Incident  reporting and quality of care</h3>
+			<p><strong>(Moderator: R Case)</strong><br><em>(Colony Ballroom)</em></p>
+			<p>O68 - Speaking up: an international comparison of the willingness of radiation therapists to report errors in clinical practice<br><em>L. Di Prospero</em></p>
+			<p>O69 - The national system of incident reporting in RT: a central repository for radiation therapy incidents in Canada<br><em>E. Marchand</em></p>
+			<p>O70 - Modern palliative rt: do process improvements reduce medical errors?<br><em>B Liszewski</em></p>
+			<p>O71 - The National System for Incident Reporting in Radiation Therapy: Development of Severity Taxonomy<br><em>B Liszewski</em></p>
+			<p>O72 - From papers to webpages: the radiation oncology intranet – an educational resource for staff<br><em>S. Kulczyski</em></p>
+
+            <h3><small>Proffered Paper Session 8</small><br>Mélange (6 x 10+2min)</h3>
+			<p><strong>(Moderator: B Bristow)</strong><br><em>(St. David Room, 3rd Floor)</em></p>
+			<p>O73 - Do we still treat Benign conditions with radiation?<br><em>E. Sinclair</em></p>
+			<p>O74 - Informed consent and shared-decision making (SDM): Is patient participation in treatment decisions regarding palliative care a realistic methodology?<br><em>C Feuz</em></p>
+			<p>O75 - Evaluating The Effectiveness of Prezi in Higher Education<br><em>A Lam</em></p>
+			<p>O76 - Does age determine how you interact with your peers?<br><em>E. Sinclair</em></p>
+			<p>O77 - Mobilisation Strategies in Higher Education<br><em>G Currie</em></p>
+			<p>O78 - Stories at Work: Writing to Learn, Care, and Collaborate in Radiation Therapy.<br><em>K Osmar</em></p>		
+		</td>
+	</tr>
+
  
 	<tr>
 		<td>3:30 - 4:00 </td>
